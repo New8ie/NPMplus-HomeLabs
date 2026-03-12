@@ -6,4 +6,3 @@
 certbot-help.txt
 */node_modules
 .version
-compose.yaml
