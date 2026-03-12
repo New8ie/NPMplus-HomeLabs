@@ -5,6 +5,5 @@
 .vscode
 certbot-help.txt
 */node_modules
-frontend/public/images
 .version
 compose.yaml
